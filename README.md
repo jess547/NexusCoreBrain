@@ -185,7 +185,7 @@ Agents output:
 
 ---
 
-# Layer 8 — Visual Interface (Tron City)
+# Layer 8 — Visual Interface (Neon City)
 
 Built with:
 - React  
