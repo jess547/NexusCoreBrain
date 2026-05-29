@@ -1,4 +1,4 @@
-# NEXUS Core Brain
+# NEXUS Core Brain      Thank you for your support https://buymeacoffee.com/jesstiffany
 ### A Biologically‑Inspired Cognitive Architecture 
 NEXUS Core Brain is a living cognitive engine that treats knowledge as behavior to simulate, not static data to retrieve. It implements biological memory principles — synaptic decay, reconsolidation, emotional indexing, and graph plasticity — to create an adaptive, emotionally‑aware, narrative‑driven intelligence layer.
 
